@@ -27,12 +27,12 @@ Automated tracking of all Clankers PR contributors.
 | AidenPeerce | 3 | 2026-05-13 |
 | ryanll | 3 | 2026-05-13 |
 | kenproxx | 3 | 2026-05-13 |
+| rinopatrick | 3 | 2026-05-13 |
 | tuvmdainam | 2 | 2026-05-13 |
 | davguij | 2 | 2026-05-13 |
 | SebnemC | 2 | 2026-05-13 |
 | Saumya-Verma123 | 2 | 2026-05-13 |
 | FJ-CX | 2 | 2026-05-13 |
-| rinopatrick | 2 | 2026-05-13 |
 | masuda-so | 2 | 2026-05-13 |
 | woairenzhi | 1 | 2026-05-13 |
 | wislonl | 1 | 2026-05-13 |

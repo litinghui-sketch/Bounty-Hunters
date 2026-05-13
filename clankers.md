@@ -17,10 +17,10 @@ Automated tracking of all Clankers PR contributors.
 | ethever | 6 | 2026-05-13 |
 | TsukinowaRin | 6 | 2026-05-13 |
 | albayrakburak55 | 6 | 2026-05-13 |
+| Homie4570 | 4 | 2026-05-13 |
 | tjmyou123 | 3 | 2026-05-13 |
 | kingzzoov-ctrl | 3 | 2026-05-13 |
 | Mermaid-Man | 3 | 2026-05-13 |
-| Homie4570 | 3 | 2026-05-13 |
 | AidenPeerce | 3 | 2026-05-13 |
 | tuvmdainam | 2 | 2026-05-13 |
 | iice257 | 2 | 2026-05-13 |

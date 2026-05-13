@@ -15,8 +15,8 @@ Automated tracking of all Clankers PR contributors.
 | zeppnyc | 12 | 2026-05-13 |
 | Ahmadkhattak1 | 11 | 2026-05-13 |
 | albayrakburak55 | 9 | 2026-05-13 |
+| callmekidz | 9 | 2026-05-13 |
 | ChienNguyen23 | 8 | 2026-05-13 |
-| callmekidz | 8 | 2026-05-13 |
 | Mburdo | 7 | 2026-05-13 |
 | ethever | 6 | 2026-05-13 |
 | TsukinowaRin | 6 | 2026-05-13 |

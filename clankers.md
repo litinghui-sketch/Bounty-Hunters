@@ -33,6 +33,7 @@ Automated tracking of all Clankers PR contributors.
 | Saumya-Verma123 | 2 | 2026-05-13 |
 | FJ-CX | 2 | 2026-05-13 |
 | rinopatrick | 2 | 2026-05-13 |
+| masuda-so | 2 | 2026-05-13 |
 | woairenzhi | 1 | 2026-05-13 |
 | wislonl | 1 | 2026-05-13 |
 | subhajitlucky | 1 | 2026-05-13 |
@@ -56,5 +57,4 @@ Automated tracking of all Clankers PR contributors.
 | 694410194 | 1 | 2026-05-13 |
 | puchiburu2020-lgtm | 1 | 2026-05-13 |
 | Saskboys | 1 | 2026-05-13 |
-| masuda-so | 1 | 2026-05-13 |
 | Snooz1e | 1 | 2026-05-13 |

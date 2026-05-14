@@ -306,6 +306,12 @@
     "last_pr": "2026-05-14T15:57:59.741Z"
   },
   {
+    "username": "beroinciyan8-code",
+    "total_prs": 2,
+    "first_pr": "2026-05-14T18:08:13.478Z",
+    "last_pr": "2026-05-14T18:19:10.241Z"
+  },
+  {
     "username": "694410194",
     "total_prs": 1,
     "first_pr": "2026-05-13T13:33:33Z",
@@ -502,11 +508,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-14T16:18:46.186Z",
     "last_pr": "2026-05-14T16:18:46.186Z"
-  },
-  {
-    "username": "beroinciyan8-code",
-    "total_prs": 1,
-    "first_pr": "2026-05-14T18:08:13.478Z",
-    "last_pr": "2026-05-14T18:08:13.478Z"
   }
 ]

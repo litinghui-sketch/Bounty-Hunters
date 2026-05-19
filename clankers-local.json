@@ -294,6 +294,12 @@
     "last_pr": "2026-05-19T04:24:49.849Z"
   },
   {
+    "username": "gacorpoll-ui",
+    "total_prs": 8,
+    "first_pr": "2026-05-19T03:34:40.600Z",
+    "last_pr": "2026-05-19T10:44:52.366Z"
+  },
+  {
     "username": "Mburdo",
     "total_prs": 7,
     "first_pr": "2026-05-13T15:20:17Z",
@@ -334,12 +340,6 @@
     "total_prs": 7,
     "first_pr": "2026-05-16T15:38:56.830Z",
     "last_pr": "2026-05-17T01:16:12.898Z"
-  },
-  {
-    "username": "gacorpoll-ui",
-    "total_prs": 7,
-    "first_pr": "2026-05-19T03:34:40.600Z",
-    "last_pr": "2026-05-19T10:44:40.038Z"
   },
   {
     "username": "TsukinowaRin",

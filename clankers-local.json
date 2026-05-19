@@ -450,6 +450,12 @@
     "last_pr": "2026-05-18T07:42:20.090Z"
   },
   {
+    "username": "coolcam2",
+    "total_prs": 5,
+    "first_pr": "2026-05-19T08:45:15.968Z",
+    "last_pr": "2026-05-19T13:03:42.133Z"
+  },
+  {
     "username": "spqrcode",
     "total_prs": 4,
     "first_pr": "2026-05-14T12:12:04.319Z",
@@ -484,12 +490,6 @@
     "total_prs": 4,
     "first_pr": "2026-05-19T12:28:47.842Z",
     "last_pr": "2026-05-19T12:39:39.694Z"
-  },
-  {
-    "username": "coolcam2",
-    "total_prs": 4,
-    "first_pr": "2026-05-19T08:45:15.968Z",
-    "last_pr": "2026-05-19T12:57:50.917Z"
   },
   {
     "username": "AidenPeerce",

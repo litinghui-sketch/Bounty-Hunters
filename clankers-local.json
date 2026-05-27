@@ -1056,6 +1056,12 @@
     "last_pr": "2026-05-26T03:07:48.298Z"
   },
   {
+    "username": "ning12323",
+    "total_prs": 2,
+    "first_pr": "2026-05-27T13:37:12.196Z",
+    "last_pr": "2026-05-27T13:41:11.808Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1480,11 +1486,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-27T12:51:30.137Z",
     "last_pr": "2026-05-27T12:51:30.137Z"
-  },
-  {
-    "username": "ning12323",
-    "total_prs": 1,
-    "first_pr": "2026-05-27T13:37:12.196Z",
-    "last_pr": "2026-05-27T13:37:12.196Z"
   }
 ]

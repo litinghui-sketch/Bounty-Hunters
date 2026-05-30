@@ -102,6 +102,12 @@
     "last_pr": "2026-05-19T03:50:18.098Z"
   },
   {
+    "username": "JirA44",
+    "total_prs": 49,
+    "first_pr": "2026-05-28T11:39:37.698Z",
+    "last_pr": "2026-05-30T06:36:43.847Z"
+  },
+  {
     "username": "zp6",
     "total_prs": 41,
     "first_pr": "2026-05-14T18:28:53.934Z",
@@ -160,12 +166,6 @@
     "total_prs": 30,
     "first_pr": "2026-05-23T04:44:46.420Z",
     "last_pr": "2026-05-23T11:59:39.364Z"
-  },
-  {
-    "username": "JirA44",
-    "total_prs": 30,
-    "first_pr": "2026-05-28T11:39:37.698Z",
-    "last_pr": "2026-05-30T06:18:14.216Z"
   },
   {
     "username": "sleeppig0314-collab",
@@ -324,6 +324,12 @@
     "last_pr": "2026-05-29T09:33:57.241Z"
   },
   {
+    "username": "ManmohanBuildsProducts",
+    "total_prs": 16,
+    "first_pr": "2026-05-30T05:02:39.115Z",
+    "last_pr": "2026-05-30T06:35:28.997Z"
+  },
+  {
     "username": "callmekidz",
     "total_prs": 14,
     "first_pr": "2026-05-13T19:54:10Z",
@@ -352,6 +358,12 @@
     "total_prs": 14,
     "first_pr": "2026-05-26T12:53:57.576Z",
     "last_pr": "2026-05-26T15:14:02.854Z"
+  },
+  {
+    "username": "barnacleagent-svg",
+    "total_prs": 14,
+    "first_pr": "2026-05-30T07:09:25.857Z",
+    "last_pr": "2026-05-30T09:05:59.423Z"
   },
   {
     "username": "liyanzong",
@@ -442,12 +454,6 @@
     "total_prs": 12,
     "first_pr": "2026-05-29T11:24:15.035Z",
     "last_pr": "2026-05-30T01:55:11.169Z"
-  },
-  {
-    "username": "ManmohanBuildsProducts",
-    "total_prs": 12,
-    "first_pr": "2026-05-30T05:02:39.115Z",
-    "last_pr": "2026-05-30T06:15:19.666Z"
   },
   {
     "username": "er1c-cartman",
@@ -1002,6 +1008,12 @@
     "last_pr": "2026-05-29T21:30:34.671Z"
   },
   {
+    "username": "soongyintong",
+    "total_prs": 4,
+    "first_pr": "2026-05-16T23:47:04.809Z",
+    "last_pr": "2026-05-30T07:53:58.313Z"
+  },
+  {
     "username": "partyplatter08-lab",
     "total_prs": 4,
     "first_pr": "2026-05-16T13:20:39.129Z",
@@ -1180,12 +1192,6 @@
     "total_prs": 3,
     "first_pr": "2026-05-13T08:10:47Z",
     "last_pr": "2026-05-16T17:22:43.947Z"
-  },
-  {
-    "username": "soongyintong",
-    "total_prs": 3,
-    "first_pr": "2026-05-16T23:47:04.809Z",
-    "last_pr": "2026-05-29T15:44:14.782Z"
   },
   {
     "username": "haisui157",
@@ -1852,6 +1858,24 @@
     "total_prs": 1,
     "first_pr": "2026-05-29T23:45:48.116Z",
     "last_pr": "2026-05-29T23:45:48.116Z"
+  },
+  {
+    "username": "cal432689-beep",
+    "total_prs": 1,
+    "first_pr": "2026-05-30T07:34:05.591Z",
+    "last_pr": "2026-05-30T07:34:05.591Z"
+  },
+  {
+    "username": "erazort01",
+    "total_prs": 1,
+    "first_pr": "2026-05-30T07:44:27.694Z",
+    "last_pr": "2026-05-30T07:44:27.694Z"
+  },
+  {
+    "username": "chengjunhua465-create",
+    "total_prs": 1,
+    "first_pr": "2026-05-30T08:53:28.051Z",
+    "last_pr": "2026-05-30T08:53:28.051Z"
   },
   {
     "username": "MichisGitIsKing",

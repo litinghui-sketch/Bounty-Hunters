@@ -18,6 +18,12 @@
     "last_pr": "2026-05-16T02:26:07.904Z"
   },
   {
+    "username": "JirA44",
+    "total_prs": 105,
+    "first_pr": "2026-05-28T11:39:37.698Z",
+    "last_pr": "2026-05-30T15:59:27.936Z"
+  },
+  {
     "username": "lqkhanh295",
     "total_prs": 91,
     "first_pr": "2026-05-22T11:58:46.572Z",
@@ -28,12 +34,6 @@
     "total_prs": 91,
     "first_pr": "2026-05-18T05:55:49.424Z",
     "last_pr": "2026-05-26T21:20:09.479Z"
-  },
-  {
-    "username": "JirA44",
-    "total_prs": 89,
-    "first_pr": "2026-05-28T11:39:37.698Z",
-    "last_pr": "2026-05-30T14:52:46.365Z"
   },
   {
     "username": "mkcash",
@@ -288,6 +288,12 @@
     "last_pr": "2026-05-16T23:34:17.897Z"
   },
   {
+    "username": "barnacleagent-svg",
+    "total_prs": 18,
+    "first_pr": "2026-05-30T07:09:25.857Z",
+    "last_pr": "2026-05-30T16:02:59.570Z"
+  },
+  {
     "username": "sirius-016",
     "total_prs": 18,
     "first_pr": "2026-05-18T08:56:36.256Z",
@@ -328,12 +334,6 @@
     "total_prs": 16,
     "first_pr": "2026-05-30T05:02:39.115Z",
     "last_pr": "2026-05-30T06:35:28.997Z"
-  },
-  {
-    "username": "barnacleagent-svg",
-    "total_prs": 16,
-    "first_pr": "2026-05-30T07:09:25.857Z",
-    "last_pr": "2026-05-30T09:28:07.458Z"
   },
   {
     "username": "callmekidz",
@@ -1882,6 +1882,12 @@
     "total_prs": 1,
     "first_pr": "2026-05-30T12:25:53.193Z",
     "last_pr": "2026-05-30T12:25:53.193Z"
+  },
+  {
+    "username": "mgokmen2-collab",
+    "total_prs": 1,
+    "first_pr": "2026-05-30T16:25:32.335Z",
+    "last_pr": "2026-05-30T16:25:32.335Z"
   },
   {
     "username": "MichisGitIsKing",

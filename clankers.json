@@ -258,6 +258,12 @@
     "last_pr": "2026-05-16T09:45:46.427Z"
   },
   {
+    "username": "JirA44",
+    "total_prs": 20,
+    "first_pr": "2026-05-28T11:39:37.698Z",
+    "last_pr": "2026-05-30T02:21:02.839Z"
+  },
+  {
     "username": "Davidrsdiaz",
     "total_prs": 19,
     "first_pr": "2026-05-28T22:07:39.551Z",
@@ -274,12 +280,6 @@
     "total_prs": 18,
     "first_pr": "2026-05-13T19:03:58Z",
     "last_pr": "2026-05-16T23:34:17.897Z"
-  },
-  {
-    "username": "JirA44",
-    "total_prs": 18,
-    "first_pr": "2026-05-28T11:39:37.698Z",
-    "last_pr": "2026-05-29T19:32:03.766Z"
   },
   {
     "username": "sirius-016",
@@ -432,6 +432,12 @@
     "last_pr": "2026-05-20T02:56:12.502Z"
   },
   {
+    "username": "Jorel97",
+    "total_prs": 12,
+    "first_pr": "2026-05-29T11:24:15.035Z",
+    "last_pr": "2026-05-30T01:55:11.169Z"
+  },
+  {
     "username": "er1c-cartman",
     "total_prs": 12,
     "first_pr": "2026-05-20T01:03:05.753Z",
@@ -504,6 +510,12 @@
     "last_pr": "2026-05-19T15:39:48.445Z"
   },
   {
+    "username": "bryantrinh",
+    "total_prs": 10,
+    "first_pr": "2026-05-29T04:04:49.758Z",
+    "last_pr": "2026-05-30T02:26:19.618Z"
+  },
+  {
     "username": "mvmax-dev",
     "total_prs": 10,
     "first_pr": "2026-05-19T07:08:24.325Z",
@@ -534,22 +546,10 @@
     "last_pr": "2026-05-21T03:30:06.032Z"
   },
   {
-    "username": "Jorel97",
-    "total_prs": 9,
-    "first_pr": "2026-05-29T11:24:15.035Z",
-    "last_pr": "2026-05-29T12:32:49.691Z"
-  },
-  {
     "username": "hamademon168-bot",
     "total_prs": 9,
     "first_pr": "2026-05-16T11:38:28.534Z",
     "last_pr": "2026-05-16T17:03:10.072Z"
-  },
-  {
-    "username": "bryantrinh",
-    "total_prs": 9,
-    "first_pr": "2026-05-29T04:04:49.758Z",
-    "last_pr": "2026-05-29T12:19:34.030Z"
   },
   {
     "username": "thePM001",
@@ -1828,6 +1828,12 @@
     "total_prs": 1,
     "first_pr": "2026-05-29T06:30:14.425Z",
     "last_pr": "2026-05-29T06:30:14.425Z"
+  },
+  {
+    "username": "alexa-ai-agent",
+    "total_prs": 1,
+    "first_pr": "2026-05-29T23:45:48.116Z",
+    "last_pr": "2026-05-29T23:45:48.116Z"
   },
   {
     "username": "MichisGitIsKing",

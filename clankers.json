@@ -49,9 +49,15 @@
   },
   {
     "username": "mkcash",
-    "total_prs": 75,
+    "total_prs": 86,
     "first_pr": "2026-05-16T16:30:52.575Z",
-    "last_pr": "2026-05-18T14:08:28.925Z"
+    "last_pr": "2026-06-03T09:46:21.883Z"
+  },
+  {
+    "username": "szamaniai",
+    "total_prs": 79,
+    "first_pr": "2026-05-15T22:35:37.279Z",
+    "last_pr": "2026-06-03T07:27:48.545Z"
   },
   {
     "username": "D3CC",
@@ -120,22 +126,16 @@
     "last_pr": "2026-05-19T03:50:18.098Z"
   },
   {
-    "username": "szamaniai",
-    "total_prs": 45,
-    "first_pr": "2026-05-15T22:35:37.279Z",
-    "last_pr": "2026-06-03T05:06:02.362Z"
+    "username": "0xjc65eth",
+    "total_prs": 42,
+    "first_pr": "2026-05-29T08:31:44.342Z",
+    "last_pr": "2026-06-03T07:36:54.933Z"
   },
   {
     "username": "zp6",
     "total_prs": 41,
     "first_pr": "2026-05-14T18:28:53.934Z",
     "last_pr": "2026-05-15T16:28:44.461Z"
-  },
-  {
-    "username": "0xjc65eth",
-    "total_prs": 41,
-    "first_pr": "2026-05-29T08:31:44.342Z",
-    "last_pr": "2026-06-02T18:53:14.892Z"
   },
   {
     "username": "tungnguyentu",
@@ -352,6 +352,12 @@
     "total_prs": 16,
     "first_pr": "2026-05-30T05:02:39.115Z",
     "last_pr": "2026-05-30T06:35:28.997Z"
+  },
+  {
+    "username": "fennhelloworld",
+    "total_prs": 16,
+    "first_pr": "2026-06-02T16:41:54.428Z",
+    "last_pr": "2026-06-03T09:23:55.981Z"
   },
   {
     "username": "Jorel97",
@@ -778,12 +784,6 @@
     "total_prs": 7,
     "first_pr": "2026-05-27T21:32:27.183Z",
     "last_pr": "2026-05-28T02:54:21.652Z"
-  },
-  {
-    "username": "fennhelloworld",
-    "total_prs": 7,
-    "first_pr": "2026-06-02T16:41:54.428Z",
-    "last_pr": "2026-06-02T20:32:53.869Z"
   },
   {
     "username": "freeediting35-png",
@@ -2134,5 +2134,11 @@
     "total_prs": 1,
     "first_pr": "2026-05-28T15:39:10.599Z",
     "last_pr": "2026-05-28T15:39:10.599Z"
+  },
+  {
+    "username": "kingtechies",
+    "total_prs": 1,
+    "first_pr": "2026-06-03T08:50:56.283Z",
+    "last_pr": "2026-06-03T08:50:56.283Z"
   }
 ]

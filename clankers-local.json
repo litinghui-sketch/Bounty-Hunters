@@ -1368,6 +1368,12 @@
     "last_pr": "2026-06-11T22:24:15.761Z"
   },
   {
+    "username": "EpilogoCRM",
+    "total_prs": 2,
+    "first_pr": "2026-06-12T00:29:52.350Z",
+    "last_pr": "2026-06-12T00:42:13.460Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1954,11 +1960,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-11T17:25:06.093Z",
     "last_pr": "2026-06-11T17:25:06.093Z"
-  },
-  {
-    "username": "EpilogoCRM",
-    "total_prs": 1,
-    "first_pr": "2026-06-12T00:29:52.350Z",
-    "last_pr": "2026-06-12T00:29:52.350Z"
   }
 ]

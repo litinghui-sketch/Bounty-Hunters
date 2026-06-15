@@ -108,6 +108,12 @@
     "last_pr": "2026-05-16T12:19:59.938Z"
   },
   {
+    "username": "abdrassulov",
+    "total_prs": 61,
+    "first_pr": "2026-06-11T23:49:35.086Z",
+    "last_pr": "2026-06-15T20:07:05.279Z"
+  },
+  {
     "username": "arthurus36-alt",
     "total_prs": 56,
     "first_pr": "2026-05-18T13:52:17.760Z",
@@ -124,12 +130,6 @@
     "total_prs": 54,
     "first_pr": "2026-05-18T19:17:26.067Z",
     "last_pr": "2026-05-19T00:58:17.880Z"
-  },
-  {
-    "username": "abdrassulov",
-    "total_prs": 53,
-    "first_pr": "2026-06-11T23:49:35.086Z",
-    "last_pr": "2026-06-15T16:50:01.638Z"
   },
   {
     "username": "zhangjiayang6835-cyber",
@@ -1116,6 +1116,12 @@
     "last_pr": "2026-05-19T01:16:01.294Z"
   },
   {
+    "username": "maojianian25-png",
+    "total_prs": 5,
+    "first_pr": "2026-06-14T18:53:07.511Z",
+    "last_pr": "2026-06-15T20:03:46.228Z"
+  },
+  {
     "username": "bounty-bot-beep",
     "total_prs": 5,
     "first_pr": "2026-05-16T01:02:07.509Z",
@@ -1228,12 +1234,6 @@
     "total_prs": 4,
     "first_pr": "2026-06-07T16:35:45.376Z",
     "last_pr": "2026-06-09T08:16:15.174Z"
-  },
-  {
-    "username": "maojianian25-png",
-    "total_prs": 4,
-    "first_pr": "2026-06-14T18:53:07.511Z",
-    "last_pr": "2026-06-14T19:10:40.302Z"
   },
   {
     "username": "K09-0",
@@ -1450,6 +1450,12 @@
     "total_prs": 3,
     "first_pr": "2026-06-15T15:19:17.182Z",
     "last_pr": "2026-06-15T15:30:21.450Z"
+  },
+  {
+    "username": "nkar123412-hub",
+    "total_prs": 3,
+    "first_pr": "2026-06-11T09:40:46.657Z",
+    "last_pr": "2026-06-15T22:03:30.799Z"
   },
   {
     "username": "huthoinguyn",
@@ -2266,12 +2272,6 @@
     "total_prs": 1,
     "first_pr": "2026-06-11T06:22:14.233Z",
     "last_pr": "2026-06-11T06:22:14.233Z"
-  },
-  {
-    "username": "nkar123412-hub",
-    "total_prs": 1,
-    "first_pr": "2026-06-11T09:40:46.657Z",
-    "last_pr": "2026-06-11T09:40:46.657Z"
   },
   {
     "username": "P3xill",

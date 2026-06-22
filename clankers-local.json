@@ -948,6 +948,12 @@
     "last_pr": "2026-06-02T07:33:16.776Z"
   },
   {
+    "username": "gtx20060124-bot",
+    "total_prs": 5,
+    "first_pr": "2026-06-22T05:22:48.826Z",
+    "last_pr": "2026-06-22T11:30:51.929Z"
+  },
+  {
     "username": "spqrcode",
     "total_prs": 4,
     "first_pr": "2026-05-14T12:12:04.319Z",
@@ -1072,12 +1078,6 @@
     "total_prs": 4,
     "first_pr": "2026-06-22T08:05:14.238Z",
     "last_pr": "2026-06-22T08:05:48.284Z"
-  },
-  {
-    "username": "gtx20060124-bot",
-    "total_prs": 4,
-    "first_pr": "2026-06-22T05:22:48.826Z",
-    "last_pr": "2026-06-22T08:33:20.501Z"
   },
   {
     "username": "AidenPeerce",

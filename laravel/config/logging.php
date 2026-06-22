@@ -51,6 +51,13 @@ return [
     */
 
     'channels' => [
+        'error' => [
+            'driver' => 'daily',
+            'path' => storage_path('logs/error.log'),
+            'level' => 'error',
+            'days' => 14,
+        ],
+
 
         'stack' => [
             'driver' => 'stack',

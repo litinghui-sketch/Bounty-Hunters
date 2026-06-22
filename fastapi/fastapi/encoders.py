@@ -274,6 +274,11 @@ def jsonable_encoder(
         return obj.value
     if isinstance(obj, PurePath):
         return str(obj)
+    
+    if isinstance(obj, bytes):
+        return _base64.b64encode(obj).decode("ascii")
+    if isinstance(obj, memoryview):
+        return _base64.b64encode(obj.tobytes()).decode("ascii")
     if isinstance(obj, (str, int, float, type(None))):
         return obj
     if isinstance(obj, PydanticUndefinedType):
